@@ -1,0 +1,14 @@
+{
+  "emp1": {
+    "name": "elis",
+    "age": "24",
+    "designation": "programmmer",
+    "salary": "54000"
+  },
+  "emp2": {
+    "name": "lisa",
+    "age": "22",
+    "designation": "trainee",
+    "salary": "60000"
+  }
+}
